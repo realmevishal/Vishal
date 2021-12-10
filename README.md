@@ -12,5 +12,3 @@ i=1
 while i<=10:
     ans=a*i
     print(a,"*",i,"=",ans)
-
-    i=i+1
